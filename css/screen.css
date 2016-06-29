@@ -1,0 +1,139 @@
+/* HTML elements */
+body {
+	background: #b26b00 url(../img/bg.jpg) repeat-x;
+	color: #000;
+	font-family: Verdana, Arial, sans-serif;
+	font-size: 12px;
+	margin: 0;
+	text-align: center;
+}
+a, 
+a:visited { 
+	color: #6dab00; 
+}
+a:hover { 
+	color: #3b5d00; 
+}
+a.rev, 
+a.rev:visited { 
+	color: #ff0; 
+}
+a.rev:hover { 
+	color: #3b5d00; 
+}
+h1, 
+h2, 
+h3, 
+h4, 
+h5, 
+h6 { 
+	margin: 0 0 10px; 
+	padding: 0; 
+}
+h1 {
+	color: #6dab00;
+	font-size: 20px;
+	font-weight: bold;
+}
+h2 { 
+	color: #000;
+	font-size: 14px; 
+	font-weight: bold;
+	margin: 5px 0 1px;
+}
+h3 { 
+	color: #000;
+	font-size: 14px; 
+}
+img { 
+	border: 0; 
+}
+
+table {
+	background: #fff;
+	border: 0;
+	margin: 0;
+	padding: 0;
+	text-align: left;
+	width: 100%;
+}
+
+/* IDs and classes */
+#page {
+	margin: 0 auto;
+	position: relative;
+	width: 800px;
+}
+#content {
+	margin: 0 auto;
+	padding: 0;
+	width: 700px;
+}
+#content-header { 
+	background: url(../img/content_top.jpg); 
+	height: 25px; 
+	margin: 10px auto 0 auto; 
+	width: 700px; 
+}
+#content-header-menu {
+	display: none;
+}
+#content-body {
+	background: #fff;
+	border-left: 2px solid #000;
+	border-right: 2px solid #000;
+	margin: 0;
+	padding: 20px;
+	text-align: left;
+	width: 656px;
+}
+#content-menu { 
+	float: right; 
+	margin: 0 0 0 10px; 
+	padding: 10px; 
+	width: 136px; 
+}
+#content-menu a { font-size: 12px; font-weight: bold; }
+	#img-bud     { left: 530px; position: absolute; top: 143px; z-index: 2; }
+	#img-news    { left: 586px; position: absolute; top: 166px; z-index: 2; }
+	#img-about   { left: 552px; position: absolute; top: 252px; z-index: 2; }
+	#img-live    { left: 560px; position: absolute; top: 274px; z-index: 2; }
+	#img-music   { left: 668px; position: absolute; top: 300px; z-index: 2; }
+	#img-gallery { left: 668px; position: absolute; top: 326px; z-index: 2; }
+	#img-store   { left: 668px; position: absolute; top: 352px; z-index: 2; }
+	#img-links   { left: 659px; position: absolute; top: 378px; z-index: 2; }
+
+#content-col { width: 400px; }
+#a1, #b1, #c1 { margin: 0; padding: 0; }
+#content-footer { 
+	background: url(../img/content_bot.jpg); 
+	height: 25px; 
+	margin: 0 0 10px 0;
+	width: 700px; 
+}
+#foot { 
+	clear: right; 
+	color: #fff; 
+	margin: 0 auto 5px auto; 
+	text-align: center; 
+}
+
+.bgshadebeige { 
+	background: #ffffaa; 
+}
+.bgshadeyel { 
+	background-color: #fbfb89; 
+}
+.headtext-1 { 
+	color: #000; 
+	font-size: 18px; 
+	font-weight: bold; 
+}
+.showinfo { 
+	font-size: 10px; 
+}
+
+#gallery-thumbs img {
+	cursor: pointer;
+}
+}
