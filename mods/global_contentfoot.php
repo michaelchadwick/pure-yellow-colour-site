@@ -1,10 +1,9 @@
-			</div>
+      </div>
 
-		</div>
-		<div id="content-footer"></div>
+    </div>
 
-		<?php include "global_botnav.php"; ?>
-	</div>
+    <?php include "global_botnav.php"; ?>
+  </div>
 
 </div>
 

@@ -19,11 +19,8 @@
 <div id="a1" style="display:inline">
   <strong>(<a href="javascript:show(1,1);">More...</a>)</strong><br />
 </div>
-<div id="b1" style="display:none">
-  <strong>(<a href="javascript:hide(1,1)">Less...</a>)</strong>
-</div>
 
-<div id="c1" style="display:none">
+<div id="b1" style="display:none">
 
 <h3>Rock Band Network is On Hold Again</h3>
 <p><strong>(01/14/11):</strong> Happy New Year!
